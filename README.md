@@ -1,1 +1,1 @@
-# tmdb-eda-assignment
+Prcticed a complete EDA of data given.
